@@ -1,3 +1,3 @@
 # hello-world
 
-hello world learning about progamming.wish me luch
+hello world learning about progamming.wish me luck
